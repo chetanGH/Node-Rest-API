@@ -1,0 +1,23 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "Node, express rest api with mongodb and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanGH/Node-Rest-API.git"
+  },
+  "author": "chetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetanGH/Node-Rest-API/issues"
+  },
+  "homepage": "https://github.com/chetanGH/Node-Rest-API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
